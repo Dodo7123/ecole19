@@ -1,0 +1,5 @@
+Credentials cache: API:487168C5-E6A1-49CD-A5DE-23868CB5E319
+        Principal: dblariau@S19.BE
+
+  Issued                Expires             Flags    Principal
+Sep  7 14:48:13 2020  Sep  8 00:44:30 2020  FPIA   krbtgt/S19.BE@S19.BE
